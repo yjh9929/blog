@@ -5,3 +5,4 @@ words:
 date:
 ---
 hello!!
+[[new page]]
