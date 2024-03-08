@@ -1,7 +1,7 @@
 ---
 title: Hello!
 views: 
-words: 
+words: "16"
 date:
 ---
 hello!! </br>
