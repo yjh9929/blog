@@ -13,8 +13,9 @@ title: All about Me!!
 📩 [yjh9929@cau.ac.kr](mailto:yjh9929@cau.ac.kr)</br>
 
 ### Work Experience
-| CVML        | Student researcher | 2022.12. to Current  | Chung-ang University, Seoul | 적외선 환경 자율주행 단안 깊이측정 모델 개발 |
+|             |                    |                      |                             |                           |
 | ----------- | ------------------ | -------------------- | --------------------------- | ------------------------- |
+| CVML        | Student researcher | 2022.12. to Current  | Chung-ang University, Seoul | 적외선 환경 자율주행 단안 깊이측정 모델 개발 |
 | PeopleSpace | Intern             | 2022.07. to 2022.08  | Irvine, CA                  |                           |
 | GRLab       | Student researcher | 2021.04. to 2021.12. | Chung-ang University, Seoul |                           |
 
@@ -25,13 +26,18 @@ title: All about Me!!
 #### patent
 #### Projects
 [[적외선 환경 자율주행 단안 깊이측정 모델 개발]]
-
+_More_
+[[Portfolio]]
 
 ### 기술 스택
 
-| **Programing Language** | - Python<br>- C++<br>- C#(Unity)<br>- Java                      |
+|                         |                                                                 |
 | :---------------------: | --------------------------------------------------------------- |
+| **Programing Language** | - Python<br>- C++<br>- C#(Unity)<br>- Java                      |
 |      **AI Tools**       | - Tensorflow<br>- OpenCV<br>- Matplotlib<br>- Pandas<br>- Numpy |
 |       **Design**        | - Illustrator<br>- Premier Pro<br>- Firefly                     |
 |     **Game Engine**     | - Unity<br>- Unreal                                             |
 |         **ETC**         | - Notion<br>- Slack<br>- Docker<br>- Window10,11 Linux MacOS    |
+
+|                         |                                                                 |
+| :---------------------: | --------------------------------------------------------------- |
