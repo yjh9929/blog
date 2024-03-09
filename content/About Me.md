@@ -25,19 +25,17 @@ title: All about Me!!
 [A Survey on IR Image Processing Methods for Region of-Interest Extraction and Merging](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522840&nodeId=NODE11522840&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&articleTitle=A+Survey+on+IR+Image+Processing+Methods+for+Region+of-Interest+Extraction+and+Merging&articleTitleEn=A+Survey+on+IR+Image+Processing+Methods+for+Region+of-Interest+Extraction+and+Merging&language=ko_KR&hasTopBanner=true)
 #### patent
 #### Projects
-[[적외선 환경 자율주행 단안 깊이측정 모델 개발]]
-_More_
-[[Portfolio]]
+[[적외선 환경 자율주행 단안 깊이측정 모델 개발]]</br>
+_More_</br>
+[[Portfolio]]</br>
 
 ### 기술 스택
 
-|                         |                                                                 |
-| :---------------------: | --------------------------------------------------------------- |
-| **Programing Language** | - Python<br>- C++<br>- C#(Unity)<br>- Java                      |
-|      **AI Tools**       | - Tensorflow<br>- OpenCV<br>- Matplotlib<br>- Pandas<br>- Numpy |
-|       **Design**        | - Illustrator<br>- Premier Pro<br>- Firefly                     |
-|     **Game Engine**     | - Unity<br>- Unreal                                             |
-|         **ETC**         | - Notion<br>- Slack<br>- Docker<br>- Window10,11 Linux MacOS    |
+|                         |                                           |                                       |
+| :---------------------: | ----------------------------------------- | ------------------------------------- |
+| **Programing Language** | - Python <br>- C++.                       | - C#(Unity)<br>- Java                 |
+|      **AI Tools**       | - Pytorch<br>- Tensorflow<br>- OpenCV<br> | - Matplotlib<br>- Pandas<br>- Numpy   |
+|       **Design**        | - Photoshop<br>- Illustrator<br><br>      | - Premier Pro<br>- Firefly            |
+|     **Game Engine**     | - Unity<br>                               | - Unreal                              |
+|         **ETC**         | - Notion<br>- Slack                       | - Docker<br>- Window10,11 Linux MacOS |
 
-|                         |                                                                 |
-| :---------------------: | --------------------------------------------------------------- |
