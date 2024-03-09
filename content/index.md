@@ -13,7 +13,7 @@ Markdown is so cute! </br>
 
 ### INDEX
 
-- [[About Me]]
+- [[About ME]]
 - [[Blog]]
 - [[Lecture]]
 - [[Paper]]
