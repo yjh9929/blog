@@ -16,3 +16,18 @@
 | 10     | Dimensionality Reduction with Principal Component Analysis | [[M4ML CH 10]] |
 | 11     | Density Estimation with Gaussian Mixture Models            | [[M4ML CH 11]] |
 | 12     | Classification with Support Vector Machines                | [[M4ML CH 12]] |
+##### Reference
+###### 고려대학교 교수님께서 강의자료를 올려놓으신 사이트
+
+[Mathematics for Machine Learning – SaVAnNA Lab](http://savanna.korea.ac.kr/wp/?page_id=605)
+
+10, 11, 12단원이 없어서 아쉽다.
+
+###### Mathematics For Machine Learning 스터디 노트
+
+[Mathematics For Machine Learning 스터디 노트](https://junstar92.tistory.com/440)
+
+마찬가지로 뒷부분이 없다.
+
+###### Youtube 강의 
+[Mathematics for Machine Learning - Linear Algebra](https://youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
