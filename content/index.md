@@ -16,12 +16,10 @@ Markdown is so cute! </br>
 ---
 
 ### INDEX
-
 - [[Blog]]
 - [[Lecture]]
-- [[Paper]]
+- [[Paper Review]]
 - [[Portfolio]]
+- [tags](https://jihee.pages.dev/tags/)
 
 ---
-
-https://jihee.pages.dev/tags/
