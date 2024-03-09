@@ -5,8 +5,7 @@ words: "16"
 date:
 ---
 ### Profile ---
-> [!Hello World!]
-Hello!! </br>
+> Hello!! </br>
 My name is Jihee. </br>
 OoO</br>
 Markdown is so cute! </br>
@@ -19,7 +18,7 @@ Markdown is so cute! </br>
 - [[Blog]]
 - [[Lecture]]
 - [[Paper Review]]
-- [[Portfolio]]
+- [[More]]
 - [tags](https://jihee.pages.dev/tags/)
 
 ---
