@@ -21,8 +21,11 @@ title: All about Me!!
 
 ### Papers & Patents & Projects
 #### paper
+[A Survey on IR Image Processing Methods for Region of-Interest Extraction and Merging](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522840&nodeId=NODE11522840&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&articleTitle=A+Survey+on+IR+Image+Processing+Methods+for+Region+of-Interest+Extraction+and+Merging&articleTitleEn=A+Survey+on+IR+Image+Processing+Methods+for+Region+of-Interest+Extraction+and+Merging&language=ko_KR&hasTopBanner=true)
 #### patent
 #### Projects
+[[적외선 환경 자율주행 단안 깊이측정 모델 개발]]
+
 
 ### 기술 스택
 
