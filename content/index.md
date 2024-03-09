@@ -17,7 +17,7 @@ Markdown is so cute! </br>
 ### INDEX
 - [[Blog]]
 - [[Lecture]]
-- [[Paper Review]]
+- [[Paper Reviews]]
 - [[More]]
 - [tags](https://jihee.pages.dev/tags/)
 
