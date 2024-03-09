@@ -1,8 +1,4 @@
----
-title: D2L
-link: "[d2l link](https://d2l.ai)"
----
-
+[Book Link](https://d2l.ai)
 
 | No  | Chapter                              | Link      |
 | --- | ------------------------------------ | --------- |
