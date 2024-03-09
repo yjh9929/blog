@@ -14,12 +14,18 @@ date: 2024.03.10.
 📩 [yjh9929@cau.ac.kr](mailto:yjh9929@cau.ac.kr)</br>
 
 ### Work Experience
-|             |                    |                      |                             |                               |
-| ----------- | ------------------ | -------------------- | --------------------------- | ----------------------------- |
-| CVML        | Student researcher | 2022.12. to Current  | Chung-ang University, Seoul | [[적외선 환경 자율주행 단안 깊이측정 모델 개발]] |
-| PeopleSpace | Intern             | 2022.07. to 2022.08  | Irvine, CA                  |                               |
-| GRLab       | Student researcher | 2021.04. to 2021.12. | Chung-ang University, Seoul |                               |
+`2022.12. to Current` CVML 학부연구생 (서울. 중앙대학교, 대한민국)
+>[[적외선 환경 자율주행 단안 깊이측정 모델 개발]]
 
+`2022.07. ~ 2022.08.` PeopleSpace 인턴 (캘리포니아. 어바인, 미국)
+
+`2021.09. ~ 2022.07.` Teaching Assitant (TA) (서울. 중앙대학교, 대한민국)
+
+>Lecture - Computational Thinking and Problem Solving
+
+`2021.04. ~ 2021.12.` GRLAB 학부연구생 (서울. 중앙대학교, 대한민국)
+
+`2020.07. ~ 2020.08.` 2020 콘텐츠원 캠퍼스 학부연구원 (안성. 중앙대학교, 대한민국)
 ### Papers & Patents & Projects
 #### paper
 [A Survey on IR Image Processing Methods for Region of-Interest Extraction and Merging](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522840&nodeId=NODE11522840&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&articleTitle=A+Survey+on+IR+Image+Processing+Methods+for+Region+of-Interest+Extraction+and+Merging&articleTitleEn=A+Survey+on+IR+Image+Processing+Methods+for+Region+of-Interest+Extraction+and+Merging&language=ko_KR&hasTopBanner=true)
