@@ -5,18 +5,18 @@ words: "16"
 date:
 ---
 ### Profile ---
-> [!NOTE]
-> Content
+> [!Hello World!]
 Hello!! </br>
 My name is Jihee. </br>
 OoO</br>
 Markdown is so cute! </br>
+[[View More >>]]
+
 
 ---
 
 ### INDEX
 
-- [[About ME]]
 - [[Blog]]
 - [[Lecture]]
 - [[Paper]]
