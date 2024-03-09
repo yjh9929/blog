@@ -14,11 +14,11 @@ title: About me
 📩 [yjh9929@cau.ac.kr](mailto:yjh9929@cau.ac.kr)</br>
 
 ### Work Experience
-|             |                    |                      |                             |                           |
-| ----------- | ------------------ | -------------------- | --------------------------- | ------------------------- |
-| CVML        | Student researcher | 2022.12. to Current  | Chung-ang University, Seoul | 적외선 환경 자율주행 단안 깊이측정 모델 개발 |
-| PeopleSpace | Intern             | 2022.07. to 2022.08  | Irvine, CA                  |                           |
-| GRLab       | Student researcher | 2021.04. to 2021.12. | Chung-ang University, Seoul |                           |
+|             |                    |                      |                             |                               |
+| ----------- | ------------------ | -------------------- | --------------------------- | ----------------------------- |
+| CVML        | Student researcher | 2022.12. to Current  | Chung-ang University, Seoul | [[적외선 환경 자율주행 단안 깊이측정 모델 개발]] |
+| PeopleSpace | Intern             | 2022.07. to 2022.08  | Irvine, CA                  |                               |
+| GRLab       | Student researcher | 2021.04. to 2021.12. | Chung-ang University, Seoul |                               |
 
 
 ### Papers & Patents & Projects
