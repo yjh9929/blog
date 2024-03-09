@@ -1,4 +1,3 @@
 ---
-title: Full Stack Deep Learning - 2022 Course
-link:
+title: Full Stack Deep Learning
 ---
