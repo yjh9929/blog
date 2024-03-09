@@ -1,3 +1,7 @@
+[[#**[1] Machine Learning의 3가지 중요한 요소 Data, Model, Learning**]]
+[[#**[2] 머신러닝의 기본적인 용어들 정리**]]
+[[#**[3] 책의 Part1. 머신러닝의 기초가 되는 수학**]]
+[[#**[4] 책의 Part2. 머신러닝의 4가지 기둥**]]
 ### **[1] Machine Learning의 3가지 중요한 요소 : Data, Model, Learning**
 
 **머신 러닝(Machine Learning, 기계학습, ML)** 은 컴퓨터 **스스로**(Automatically) 데이터에서 **유용한 정보**(information)를 뽑아내는 알고리즘을 디자인하는 것을 말한다. 여기서 **‘automatic(자동적)’**이라는 점을 강조한다. 즉, 머신러닝은 의미 있는 무언가를 생성하면서 많은 데이터셋에 적용할 수 있는 범용(general-purpose) 방법론(methodologies)을 연구한다. 
