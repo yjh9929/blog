@@ -2,14 +2,14 @@
 
 | No  | Chapter                              | Link      |
 | --- | ------------------------------------ | --------- |
-| 01  |                                      |           |
-| 02  |                                      |           |
+| 01  |                                      | [[D2L CH 01]] |
+| 02  |                                      | [[D2L CH 02]] |
 | 03  |                                      |           |
 | 04  |                                      |           |
 | 05  |                                      |           |
 | 06  |                                      |           |
 | 07  |                                      |           |
-| 08  | Modern Convolutional Neural Networks | [[CH 08]] |
+| 08  | Modern Convolutional Neural Networks | [[D2L CH 08]] |
 | 09  |                                      |           |
 | 10  |                                      |           |
 | 11  |                                      |           |
