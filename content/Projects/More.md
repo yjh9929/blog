@@ -12,5 +12,6 @@ title: Portfolio
 | ----- | ---- | --- |
 |       |      |     |
 ### Game Works
-|Title|Date|
-|--|
+| Title | Date |
+| ----- | ---- |
+|       |      |
